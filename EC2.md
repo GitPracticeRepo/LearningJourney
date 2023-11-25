@@ -8,3 +8,6 @@
 * How to write loops
 
 * Notes about this topic [refer here](https://directdevops.blog/2023/11/24/azure-classroom-notes-24-nov-2023/)
+
+* According to my understanding
+* AWS CLI helps to interact with AWS from any terminal
