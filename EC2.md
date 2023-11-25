@@ -6,3 +6,5 @@
 * Paths in Json
 * see if it already exists
 * How to write loops
+
+* Notes about this topic [refer here](https://directdevops.blog/2023/11/24/azure-classroom-notes-24-nov-2023/)
